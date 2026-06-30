@@ -1,0 +1,5 @@
+name: ask_user_tool
+desc: Provides an ask_user LLM tool that allows the AI agent to ask questions to the user and wait for their response.
+version: 1.0.0
+author: XuHaoran
+repo: https://github.com/XuHaoran/astrbot-ask-user
